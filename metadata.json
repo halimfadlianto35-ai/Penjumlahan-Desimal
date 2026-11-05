@@ -1,0 +1,6 @@
+{
+  "name": "Animasi Desimal: Video & Simulator Interaktif",
+  "description": "Media pembelajaran interaktif berbasis video animasi untuk materi penjumlahan dan pengurangan bilangan desimal dengan visualisasi nilai tempat dan simulator berhitung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
